@@ -14,7 +14,6 @@
 ### 🚀 About Me
 
 - 🎓 M.Tech student in **VLSI & Embedded Systems** at MIT World Peace University, Pune
-- 🛰️ Currently building my dissertation on **satellite-assisted calibration of weather stations**
 - 🔭 Designing FSMs, ALUs, and RTL modules with **Verilog HDL** on FPGAs
 - 📡 Engineering firmware with **Zephyr RTOS** and **QuecPython** across BLE, UART, I2C & ADC
 - 🌍 Working on geospatial AI/ML QC and large-scale IVR data pipelines with **Python & pandas**
@@ -42,8 +41,6 @@
   <img src="https://img.shields.io/badge/nRF5340-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white" alt="nRF5340"/>
   <img src="https://img.shields.io/badge/Zephyr_RTOS-696969?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr RTOS"/>
   <img src="https://img.shields.io/badge/QuecPython-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="QuecPython"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
 
 **Programming Languages**
@@ -72,23 +69,6 @@
   <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
   <img src="https://img.shields.io/badge/PCB_Design-1E88E5?style=for-the-badge&logo=circuitverse&logoColor=white" alt="PCB Design"/>
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE"/>
-</p>
-
----
-
-### 💼 Featured Projects
-
-- 🛰️ **Satellite-Assisted Calibration of Weather Stations** *(M.Tech Dissertation)* — 3D-PAWS-based automatic weather station with SHT31-D, AS5600, Hall-effect & BMP3xx sensors; QuecPython firmware over ADC/UART/I2C with SD logging; Zephyr RTOS BLE gateway on nRF5340 for multi-node sensor networking
-- 🔹 **Digital Design using Verilog (FPGA)** — FSMs, ALU & counter modules, simulated and verified on Vivado (Basys 3)
-- 🌾 **Geospatial QC & IVR Data Pipeline** *(PoCRA, Govt. of Maharashtra)* — Visual QC of AI/ML-predicted farm boundaries against satellite imagery; Python/pandas EDA pipeline analyzing 700,000+ IVR call log records per district
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
