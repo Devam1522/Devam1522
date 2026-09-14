@@ -1,6 +1,6 @@
 # Hi there, I'm Devam Patel 👋
 
-| I'm an M.Tech student in VLSI & Embedded Systems at MIT World Peace University, Pune, with hands-on experience in Verilog HDL, RTL design, FPGA-based digital systems, embedded firmware, and IoT development. I specialize in building RTOS-based firmware, sensor networks, and end-to-end hardware systems — from silicon to the cloud. <br><br>🎓 M.Tech in VLSI & Embedded Systems — MIT World Peace University, Pune <br>🛰️ Currently working on satellite-assisted calibration of weather stations (dissertation) <br>📡 Exploring Zephyr RTOS, QuecPython, and BLE sensor networking <br>📍 Based in Pune, Maharashtra · Roots in Anand, Gujarat | [![circuit gif](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif) |
+| I'm an M.Tech student in VLSI & Embedded Systems at MIT World Peace University, Pune, with hands-on experience in Verilog HDL, RTL design, FPGA-based digital systems, embedded firmware, and IoT development. I specialize in building RTOS-based firmware, sensor networks, and end-to-end hardware systems — from silicon to the cloud. <br><br>🎓 M.Tech in VLSI & Embedded Systems — MIT World Peace University, Pune <br>🛰️ Currently working on satellite-assisted calibration of weather stations (dissertation) <br>📡 Exploring Zephyr RTOS, QuecPython, and BLE sensor networking <br>📍 Based in Pune, Maharashtra · Roots in Anand, Gujarat | <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="380" alt="circuit board gif"/> |
 | --- | --- |
 
 ---
@@ -13,7 +13,7 @@
 
 ### 🔌 Microcontrollers & RTOS/Firmware
 
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/> <img src="https://img.shields.io/badge/nRF5340-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white" alt="nRF5340"/> <img src="https://img.shields.io/badge/Zephyr_RTOS-696969?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr RTOS"/> <img src="https://img.shields.io/badge/QuecPython-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="QuecPython"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32 F4 Series"/> <img src="https://img.shields.io/badge/nRF5340-00A9CE?style=for-the-badge&logo=nordicsemiconductor&logoColor=white" alt="nRF5340"/> <img src="https://img.shields.io/badge/Zephyr_RTOS-696969?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr RTOS"/> <img src="https://img.shields.io/badge/QuecPython-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="QuecPython"/>
 
 ### 💻 Programming Languages
 
@@ -35,7 +35,6 @@
 - **B.E. in Electronics and Communication** – G H Patel College of Engineering and Technology (CGPA: 7.27, 2020–2024)
 
 ---
-
 
 ## 📬 Connect with Me
 
